@@ -1,13 +1,7 @@
 picom
 =======
 
-**This is a development branch, bugs to be expected**
-
-This is forked from the original Compton because it seems to have become unmaintained.
-
-The current battle plan of this fork is to refactor it to make the code _possible_ to maintain, so potential contributors won't be scared away when they take a look at the code.
-
-We also try to fix bugs.
+> This fork enables `corner-radius` property (to be set into your `$HOME/.config/picom/picom.conf`).
 
 The original README can be found [here](README_orig.md)
 
